@@ -1,2 +1,4 @@
-site_name: Smart QR Scanner
-
+site_name: ""
+nav:
+  - Home: index.md
+  - Terms of Service: terms-of-service.md
